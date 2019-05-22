@@ -11,7 +11,7 @@ export default function Tabs() {
     <Container>
       <TabsContainer>
         <TabItem>
-          <Icon name="person-add" size={24} color="FFF" />
+          <Icon name="person-add" size={24} color="#FFF" />
           <TabText>Indicar amigos</TabText>
         </TabItem>
       </TabsContainer>
